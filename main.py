@@ -84,13 +84,13 @@
 # print(f'Ваш результат {result} очка(ов)')
 
 # второе решение
-dictionary = {1:"AEIOULNSTRABEMHOPCT", 
-              2: "СХЭДКЛМПУ", 
-              3:"ВСМРБГЁЬЯ", 
-              4:"FHVWYAW", 
-              5:"КЖЗХЦЧ", 
-              8:"ЗХШЭЮ", 
-              10:"QZOMHb"}
+dictionary = {1:"AEIOULNSTRАВЕИНОРСТ", 
+              2:"DGДКЛМПУ", 
+              3:"BCMPБГЁЬЯ", 
+              4:"FHVWYЙЫ", 
+              5:"KЖЗХЦЧ", 
+              8:"JXШЭЮ", 
+              10:"QZФЩЪ"}
 word = input("Введите слово: ").upper() 
 sum = 0
 for i in word :
